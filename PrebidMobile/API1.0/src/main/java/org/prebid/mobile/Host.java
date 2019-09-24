@@ -28,7 +28,7 @@ public enum Host {
      */
     RUBICON("https://prebid-server.rubiconproject.com/openrtb2/auction"),
 
-    CUSTOM("");
+    CUSTOM("https://prebid.pub.network/openrtb2/auction");
 
     private String url;
 
